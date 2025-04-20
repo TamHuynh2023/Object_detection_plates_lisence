@@ -1,11 +1,12 @@
-<<<<<<< HEAD
 # Object_detection_plates_lisence
-red light violation detection system.
-=======
+
+# red light violation detection system.
+
 ---
+
 # 🚦 Object Detection & License Plate Recognition for Red Light Violation
-A computer vision system for detecting red light violations and extracting license plates from surveillance video using YOLO, DeepSORT, and multiple OCR services.
----
+
+## A computer vision system for detecting red light violations and extracting license plates from surveillance video using YOLO, DeepSORT, and multiple OCR services.
 
 ## 🔍 System Pipeline Overview
 
@@ -116,4 +117,3 @@ A computer vision system for detecting red light violations and extracting licen
 | `Color_Pala`          | Assigns unique colors to vehicles for visual clarity during tracking.      |
 
 ---
->>>>>>> master
