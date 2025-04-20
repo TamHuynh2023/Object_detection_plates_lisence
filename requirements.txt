@@ -1,0 +1,6 @@
+ultralytics
+deep-sort-realtime 
+dotenv 
+anthropic
+azure-cognitiveservices-vision-computervision
+opencv-python
